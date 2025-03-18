@@ -40,15 +40,38 @@ First, you need to login to osticket as either a agent or as the admin. Dependin
 <p>
   We are going to add a new role called the Supreme admin. As the admin you want to go to agent section, select the category role and type in the name of the new role then save it so that way it will now be added. 
 </p>
+<br />
 
 <p>
   <img src="https://i.imgur.com/Eu21X4z.jpeg" height="50%" width="50%" alt="New Department"/>
   <img src="https://i.imgur.com/UwJi5y7.jpeg" height="50%" width="50%" alt="New Department"/>
 </p>
+<p>
+  Here we created a new department called Sysadmin. To create this you will need to go over to to agents the go to departments and fill out all of the information. You can also setup different things like the SLA,type, and status as well.    
+</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HNuRsPF.jpeg" height="50%" width="50%" alt="New Teams"/>
+<img src="https://i.imgur.com/Akkk9Oc.jpeg" height="50%" width="50%" alt="New Teams"/>
+</p>
+<p>
+A new team was created above so you can assign certain tickets to a specific team if that needed to take place. So, we created a new team by just going over to the agents section and going to teams. Once there you can fill out the information and save it. 
+</p>
+<br />
+
+<p>
+  <img src="https://i.imgur.com/VEVDPGW.jpeg" height="50%" width="50%" alt=" New Agents"/>
+</p>
+<p>
+  
+</p>
+<br />
+
+
+<p>
+   <img src="https://i.imgur.com/fu4VlVE.jpeg" height="50%" width="50%" alt="New Users"/>
+   <img src="https://i.imgur.com/OkdqFjm.jpeg" height="50%" width="50%" alt="New Users"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
