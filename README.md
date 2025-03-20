@@ -64,7 +64,7 @@ A new team was created above so you can assign certain tickets to a specific tea
   <img src="https://i.imgur.com/VEVDPGW.jpeg" height="50%" width="50%" alt=" New Agents"/>
 </p>
 <p>
-  
+  By creating a new agent, we can assign tickets to them and set different settings/status for them. To do this you will need to go to the agents section and press create a new agent. Fill out the info and different settings you want to add and save it. 
 </p>
 <br />
 
@@ -74,6 +74,25 @@ A new team was created above so you can assign certain tickets to a specific tea
    <img src="https://i.imgur.com/OkdqFjm.jpeg" height="50%" width="50%" alt="New Users"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To add a new user, as an agent go over to the users section and select add new user. You can create multiple new users and add internal notes to them if needed. 
+</p>
+<br />
+
+<p>
+  <img src="https://i.imgur.com/dwTGm7c.jpeg" height="50%" width="50%" alt="New SLA"/>
+  <img src="https://i.imgur.com/ZP2LMXT.jpeg" height="50%" width="50%" alt="New SLA"/>
+  <img src="https://i.imgur.com/w8yEXIo.jpeg" height="50%" width="50%" alt="New SLA"/>
+</p>
+<p>
+  A SLA( service level agreement) is a agreement or contract between a IT provider and client on what is going to be done. Depending on the impact, a priority will be set. To Create a SLA as the admin you will need to go to manage and then to the SLA sectiona. Select create new SLA, after that we wil set the grace hours and the schedule. The schedule can be 24/7 or within business hours aas well. Create three new SLAs and save them. 
+</p>
+<br />
+
+<p>
+   <img src="https://i.imgur.com/C77XSAL.jpeg" height="50%" width="50%" alt="New Help Topics"/> 
+  <img src="https://i.imgur.com/AM5lH2c.png" height="30%" width="50%" alt="New Help Topics"/>
+</p>
+<p>
+  A help topic helps users select the problem that is occuring so that the agents have an idea of what is going on. Above you'll see different examples of that. We created these by going to manage and selecting help topics. When creating a new help topic, you will need to set the status, priority, type, and deparment. When finished press save and it will be created. 
 </p>
 <br />
