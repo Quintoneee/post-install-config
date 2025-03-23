@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This Project outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,6 +25,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+<h4>Agent and Admin panel:</h4>
+
 <p>
 <img src="https://i.imgur.com/aqwY2zo.jpeg" height="50%" width="50%" alt="Agent Panel"/>
 <img src="https://i.imgur.com/5XIyIiP.jpeg" height="50%" width="50%" alt="Admin Panel"/>
@@ -33,6 +35,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 First, you need to login to osticket as either a agent or as the admin. Depending on which one you are the dashboard will look at different. As agent the dashboard will consists of the users, tasks, and tickets. Any tickets that you are currently working on or have completed will show as well as any tasks that need to be done. For the admin this will look like emails, settings, agents, and manage. Here you will be able to do a number of things such as set permissions, assign agents to certain deparments, and create/look at different tasks.   
 </p>
 <br />
+
+<h4>Roles and Departments:</h4>
 
 <p>
 <img src="https://i.imgur.com/WpZ1SFI.jpeg" height="50%" width="50%" alt="New Roles"/>
@@ -51,6 +55,8 @@ First, you need to login to osticket as either a agent or as the admin. Dependin
 </p>
 <br />
 
+<h4>Teams:</h4>
+
 <p>
 <img src="https://i.imgur.com/HNuRsPF.jpeg" height="50%" width="50%" alt="New Teams"/>
 <img src="https://i.imgur.com/Akkk9Oc.jpeg" height="50%" width="50%" alt="New Teams"/>
@@ -60,6 +66,8 @@ A new team was created above so you can assign certain tickets to a specific tea
 </p>
 <br />
 
+<h4>Agents and Users:</h4>
+
 <p>
   <img src="https://i.imgur.com/VEVDPGW.jpeg" height="50%" width="50%" alt=" New Agents"/>
 </p>
@@ -67,7 +75,6 @@ A new team was created above so you can assign certain tickets to a specific tea
   By creating a new agent, we can assign tickets to them and set different settings/status for them. To do this you will need to go to the agents section and press create a new agent. Fill out the info and different settings you want to add and save it. 
 </p>
 <br />
-
 
 <p>
    <img src="https://i.imgur.com/fu4VlVE.jpeg" height="50%" width="50%" alt="New Users"/>
@@ -77,6 +84,8 @@ A new team was created above so you can assign certain tickets to a specific tea
 To add a new user, as an agent go over to the users section and select add new user. You can create multiple new users and add internal notes to them if needed. 
 </p>
 <br />
+
+<h4>SLA and Help Topics:</h4>
 
 <p>
   <img src="https://i.imgur.com/dwTGm7c.jpeg" height="50%" width="50%" alt="New SLA"/>
