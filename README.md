@@ -47,6 +47,14 @@ First, you need to login to osticket as either a agent or as the admin. Dependin
 <br />
 
 <p>
+  <img src="https://i.imgur.com/Odp6wFm.jpeg" height="50%" width="50%" alt="Setting Permissions"/>
+</p>
+<p>
+  When setting permissions for a certain role you can add and unadd things. In the picture above we are going to give this new role all of the permissions when it comes to tickets etc. 
+</p>
+<br />
+
+<p>
   <img src="https://i.imgur.com/Eu21X4z.jpeg" height="50%" width="50%" alt="New Department"/>
   <img src="https://i.imgur.com/UwJi5y7.jpeg" height="50%" width="50%" alt="New Department"/>
 </p>
