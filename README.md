@@ -32,7 +32,7 @@ This Project outlines the post-install configuration of the open-source help des
 <img src="https://i.imgur.com/5XIyIiP.jpeg" height="50%" width="50%" alt="Admin Panel"/>
 </p>
 <p>
-First, you need to login to osticket as either a agent or as the admin. Depending on which one you are the dashboard will look at different. As agent the dashboard will consists of the users, tasks, and tickets. Any tickets that you are currently working on or have completed will show as well as any tasks that need to be done. For the admin this will look like emails, settings, agents, and manage. Here you will be able to do a number of things such as set permissions, assign agents to certain deparments, and create/look at different tasks.   
+First, you need to log in to osticket as either an agent or as the admin. Depending on which one you are, the dashboard will look different. As an agent, the dashboard will consist of the users, tasks, and tickets. Any tickets that you are currently working on or have completed will show, as well as any tasks that need to be done. For the admin, this will look like emails, settings, agents, and manage. Here you will be able to do several things, such as set permissions, assign agents to certain departments, and create/look at different tasks.   
 </p>
 <br />
 
@@ -42,7 +42,7 @@ First, you need to login to osticket as either a agent or as the admin. Dependin
 <img src="https://i.imgur.com/WpZ1SFI.jpeg" height="50%" width="50%" alt="New Roles"/>
 </p>
 <p>
-  We are going to add a new role called the Supreme admin. As the admin you want to go to agent section, select the category role and type in the name of the new role then save it so that way it will now be added. 
+  We are going to add a new role called the Supreme admin. As the admin, you want to go to the  agent section, select the category role, and type in the name of the new role, then save it so that it will now be added. 
 </p>
 <br />
 
@@ -50,7 +50,7 @@ First, you need to login to osticket as either a agent or as the admin. Dependin
   <img src="https://i.imgur.com/Odp6wFm.jpeg" height="50%" width="50%" alt="Setting Permissions"/>
 </p>
 <p>
-  When setting permissions for a certain role you can add and unadd things. In the picture above we are going to give this new role all of the permissions when it comes to tickets etc. 
+  When setting permissions for a certain role, you can add and unadd things. In the picture above, we are going to give this new role all of the permissions when it comes to tickets, etc. 
 </p>
 <br />
 
@@ -59,7 +59,7 @@ First, you need to login to osticket as either a agent or as the admin. Dependin
   <img src="https://i.imgur.com/UwJi5y7.jpeg" height="50%" width="50%" alt="New Department"/>
 </p>
 <p>
-  Here we created a new department called Sysadmin. To create this you will need to go over to to agents the go to departments and fill out all of the information. You can also setup different things like the SLA,type, and status as well.    
+  Here we created a new department called Sysadmin. To create this, you will need to go over to agents the go to departments, and fill out all of the information. You can also set up different things like the SLA, type, and status as well.    
 </p>
 <br />
 
@@ -70,7 +70,7 @@ First, you need to login to osticket as either a agent or as the admin. Dependin
 <img src="https://i.imgur.com/Akkk9Oc.jpeg" height="50%" width="50%" alt="New Teams"/>
 </p>
 <p>
-A new team was created above so you can assign certain tickets to a specific team if that needed to take place. So, we created a new team by just going over to the agents section and going to teams. Once there you can fill out the information and save it. 
+A new team was created above, so you can assign certain tickets to a specific team if that needs to take place. So, we created a new team by just going over to the agents section and going to teams. Once there, you can fill out the information and save it. 
 </p>
 <br />
 
@@ -80,7 +80,7 @@ A new team was created above so you can assign certain tickets to a specific tea
   <img src="https://i.imgur.com/VEVDPGW.jpeg" height="50%" width="50%" alt=" New Agents"/>
 </p>
 <p>
-  By creating a new agent, we can assign tickets to them and set different settings/status for them. To do this you will need to go to the agents section and press create a new agent. Fill out the info and different settings you want to add and save it. 
+  By creating a new agent, we can assign tickets to them and set different settings/statuses for them. To do this, you will need to go to the agents section and press Create a new agent. Fill out the info and different settings you want to add and save them. 
 </p>
 <br />
 
@@ -89,7 +89,7 @@ A new team was created above so you can assign certain tickets to a specific tea
    <img src="https://i.imgur.com/OkdqFjm.jpeg" height="50%" width="50%" alt="New Users"/>
 </p>
 <p>
-To add a new user, as an agent go over to the users section and select add new user. You can create multiple new users and add internal notes to them if needed. 
+To add a new user, as an agent, go over to the users section and select Add New User. You can create multiple new users and add internal notes to them if needed. 
 </p>
 <br />
 
@@ -110,6 +110,6 @@ To add a new user, as an agent go over to the users section and select add new u
   <img src="https://i.imgur.com/AM5lH2c.png" height="30%" width="50%" alt="New Help Topics"/>
 </p>
 <p>
-  A help topic helps users select the problem that is occuring so that the agents have an idea of what is going on. Above you'll see different examples of that. We created these by going to manage and selecting help topics. When creating a new help topic, you will need to set the status, priority, type, and deparment. When finished press save and it will be created. 
+  A help topic helps users select the problem that is occuring so that the agents have an idea of what is going on. Above you'll see different examples of that. We created these by going to manage and selecting help topics. When creating a new help topic, you will need to set the status, priority, type, and department. When finished, press save, and it will be created. 
 </p>
 <br />
